@@ -1,0 +1,56 @@
+body,
+html {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    font-family: Arial, sans-serif;
+    width: 100%;
+    height: 100%;
+}
+
+#menu {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(45deg, #1e3c72, #2a5298);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 10;
+    flex-direction: column;
+    color: #ffffff;
+}
+
+#menu h1 {
+    margin-bottom: 20px;
+    font-size: 3em;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+#menu button {
+    padding: 15px 30px;
+    font-size: 20px;
+    cursor: pointer;
+    background-color: #6c757d;
+    border: none;
+    border-radius: 5px;
+    color: #ffffff;
+    transition: background-color 0.3s ease;
+}
+
+#menu button:hover {
+    background-color: #5a6268;
+}
+
+#webglOutput {
+    width: 100%;
+    height: 100%;
+}
+
+
+
+canvas {
+    display: block;
+}
