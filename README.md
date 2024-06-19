@@ -12,7 +12,8 @@ ceiling lamp, human head.
 - Sefl-constructed models include chair, pedestal, switch box, 
 cylinder and box-shaped walls.
 
-![image](https://github.com/linh-ttt/Final-Threejs/assets/153449781/107e28f0-4beb-44b1-9905-77e428aade6d)
+![image](https://github.com/linh-ttt/Final-Threejs/assets/153449781/4bc84cf5-0ccd-4146-a9bb-651e24a9b1c8)
+
 
 
 //Work Resume
