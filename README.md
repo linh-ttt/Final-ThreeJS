@@ -12,6 +12,9 @@ ceiling lamp, human head.
 - Sefl-constructed models include chair, pedestal, switch box, 
 cylinder and box-shaped walls.
 
+![image](https://github.com/linh-ttt/Final-Threejs/assets/153449781/107e28f0-4beb-44b1-9905-77e428aade6d)
+
+
 //Work Resume
 1. Trần Thị Thùy Linh 
 - Code for Scene setup, Light Switch, Loading of Models, Fonts, Objects Drawing, Audio, Mouse Clicks Movement.
