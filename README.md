@@ -17,11 +17,9 @@ cylinder and box-shaped walls.
 
 
 //Work Resume
-1. Trần Thị Thùy Linh 
-- Code for Scene setup, Light Switch, Loading of Models, Fonts, Objects Drawing, Audio, Mouse Clicks Movement.
-2. Đoàn Vũ Nhật Minh 
-- Code for LightRay, Start Screen, First Person Camera Controller.
+- Scene setup, Light Switch, Loading of Models, Fonts, Objects Drawing, Audio, Mouse Clicks Movement.
+- LightRay, Start Screen, First Person Camera Controller.
 
-Name: 3D Art Gallery
-Completion Time: 7d
-Contributors: @linh-ttt, @nhatminh04
+> Name: 3D Art Gallery
+> Completion Time: 7d
+> Contributors: @linh-ttt, @nhatminh04
